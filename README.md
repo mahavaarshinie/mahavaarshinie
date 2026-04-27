@@ -16,6 +16,9 @@ Data Science student at Multimedia University (MMU) specializing in end-to-end m
 - **Automation:** Developed Excel **VBA** templates to automate repetitive operational tasks and improve process efficiency.
 - **Database Management:** Managed and queried **SQL** databases to extract insights and support data-driven reporting.
 - **Digital Solutions:** Assisted in the development of process automation and data management tools to support regional operations.
+
+---
+  
 - 🌍 Portfolio: [mahavaarshinie.github.io](https://mahavaarshinie.github.io/index.html)
 - 📄 Professional Profile: [LinkedIn](https://www.linkedin.com/in/maha-vaarshinie-arupatha-rajoo-068205238/)
 - 📧 Contact: [mahavaarshinie17@gmail.com](mailto:mahavaarshinie17@gmail.com)
