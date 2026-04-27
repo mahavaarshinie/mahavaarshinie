@@ -3,15 +3,19 @@
   <strong>Computer Science (Data Science) Student @ MMU Cyberjaya</strong>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahavaarshinie&theme=radical&column=7" alt="trophies" />
-</p>
-
 ---
 
 ### 🚀 About Me
-I am a final-year Data Science student with a focus on building high-performance machine learning models and data-driven web applications. I specialize in **Computer Vision (Deepfake Detection)** and **NLP solutions**.
+Data Science student at Multimedia University (MMU) specializing in end-to-end machine learning and predictive analytics. Developed a computer vision system for deepfake detection and dialect-aware NLP solutions for inclusive digital access. Experienced in full-stack web development, building production-ready MNC dashboards and robust backend systems with API integration. Proficient in front-end programming and advanced database management to transform complex data into actionable business intelligence.
 
+---
+
+### 💼 Work Experience
+**IT Intern - Operations** | *AT&S Malaysia* (Jul 2025 – Oct 2025)
+- **Data Visualization:** Built advanced dashboards and reports using **Power BI**, leveraging **DAX** and **M code** for complex data transformations.
+- **Automation:** Developed Excel **VBA** templates to automate repetitive operational tasks and improve process efficiency.
+- **Database Management:** Managed and queried **SQL** databases to extract insights and support data-driven reporting.
+- **Digital Solutions:** Assisted in the development of process automation and data management tools to support regional operations.
 - 🌍 Portfolio: [mahavaarshinie.github.io](https://mahavaarshinie.github.io/index.html)
 - 📄 Professional Profile: [LinkedIn](https://www.linkedin.com/in/maha-vaarshinie-arupatha-rajoo-068205238/)
 - 📧 Contact: [mahavaarshinie17@gmail.com](mailto:mahavaarshinie17@gmail.com)
