@@ -19,7 +19,7 @@ Data Science student at Multimedia University (MMU) specializing in end-to-end m
 
 ---
   
-- 🌍 Portfolio: [mahavaarshinie.github.io](https://mahavaarshinie.github.io/index.html)
+- 🌍 Portfolio: [mahavaarshinie.github.io](https://mahavaarshinie-portfolio.vercel.app/)
 - 📄 Professional Profile: [LinkedIn](https://www.linkedin.com/in/maha-vaarshinie-arupatha-rajoo-068205238/)
 - 📧 Contact: [mahavaarshinie17@gmail.com](mailto:mahavaarshinie17@gmail.com)
 
